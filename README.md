@@ -11,3 +11,4 @@ This file will include a list of students and teachers.
 - [Julian Feregotti](https://github.com/julianfere)
 - [Juan Cabot](https://github.com/cabotjuan)
 - [Gonza Bilbao](https://github.com/gonnicobilbao)
+- [Agustin Cremaschi](https://github.com/AgusCremaschi)
