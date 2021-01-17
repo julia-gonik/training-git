@@ -15,3 +15,4 @@ This file will include a list of students and teachers.
 - [Agustin Cremaschi](https://github.com/AgusCremaschi)
 - [Eduardo Gonik](https://github.com/egonik-unlp)
 - [Matias Delle Donne](https://github.com/DelleDonneMati)
+  [Julia Gonik] ( https://https://github.com/julia-gonik)
